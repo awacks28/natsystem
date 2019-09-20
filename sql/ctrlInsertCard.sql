@@ -1,0 +1,1 @@
+INSERT INTO cardgame.cards (idcard, name , weight, figure, colors_id) VALUES (65,"Test", 13, true, 3);
